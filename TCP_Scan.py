@@ -3,7 +3,7 @@
 #  输入主机名与端口->主机名变为IPV4地址->
 import optparse
 import socket
-import  threading
+import threading
 
 ###
 # 建立socket连接
